@@ -1,5 +1,5 @@
 # Una vez construido el plot, puede calcularse el
-# Coeficiente de clusterización de cada red.
+# Coeficiente de Clusterización de cada red.
 
 # Cargar library
 library(igraph)
